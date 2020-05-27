@@ -1,0 +1,20 @@
+Info on Python
+https://realpython.com/what-can-i-do-with-python/
+
+course:
+https://www.youtube.com/watch?v=rfscVS0vtbw [crash course Python3 beginner] 4h buena division de contenido
+============================================================================================================
+Info on C
+https://www.quora.com/What-can-I-do-with-the-C-programming-language?share=1
+course:
+https://www.youtube.com/watch?v=KJgsSFOSQv0 [crash course C beginner] 4h buena division de contenido
+  |_>	https://www.youtube.com/watch?v=vLnPwxZdW4Y [[crash course C++ beginner]] 4h 
+  |_>	https://www.youtube.com/watch?v=GhQdlIFylQ8 [[crash course C++ beginner]] 4h 
+============================================================================================================
+Web development
+
+º	https://www.youtube.com/watch?v=pQN-pnXPaVg [HTML web building] 2h
+º	https://www.youtube.com/watch?v=OK_JCtrrv-c [crash course php] 5h
+============================================================================================================
+
+https://www.youtube.com/watch?v=RBSGKlAvoiM [DATA STRUCTURES easy - advanced] 8h
